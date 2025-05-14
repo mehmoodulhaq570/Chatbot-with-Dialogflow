@@ -39,6 +39,7 @@ food-chatbot/
 │ └── models.py # (Optional) data models
 ├── dialogflow-agent/ # Dialogflow intents and config
 └── README.md
+````
 ---
 
 ## 🚀 Getting Started
@@ -48,7 +49,7 @@ food-chatbot/
 ```bash
 git clone https://github.com/your-username/food-chatbot.git
 cd food-chatbot
-
+````
 
 # 🍔 FastAPI + Dialogflow Food Ordering Chatbot
 
